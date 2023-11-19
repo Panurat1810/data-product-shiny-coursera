@@ -1,0 +1,10 @@
+name: data-product-coursera-week4
+title:
+username: panurat
+account: panurat
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10572195
+bundleId: 7945245
+url: https://panurat.shinyapps.io/data-product-coursera-week4/
+version: 1
